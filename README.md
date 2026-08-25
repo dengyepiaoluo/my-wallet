@@ -13,8 +13,8 @@
 
 ## 截图
 
-<img width="1200" height="2532" alt="ce6e3daf7642f145360e26db6be80ffb" src="https://github.com/user-attachments/assets/fd573a60-27a1-4520-a9a0-8aec53307c8b" />
-<img width="1200" height="2523" alt="1dfec8f976fad914d05265df2f187e98" src="https://github.com/user-attachments/assets/e9df5b44-1ae4-43e7-8559-53f1e891722e" />
+<img width="200" height="400" alt="ce6e3daf7642f145360e26db6be80ffb" src="https://github.com/user-attachments/assets/fd573a60-27a1-4520-a9a0-8aec53307c8b" />
+<img width="200" height="400" alt="1dfec8f976fad914d05265df2f187e98" src="https://github.com/user-attachments/assets/e9df5b44-1ae4-43e7-8559-53f1e891722e" />
 
 
 ## 下载安装

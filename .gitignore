@@ -1,0 +1,13 @@
+.dart_tool/
+.idea/
+build/
+*.iml
+local.properties
+.gradle/
+key.properties
+*.keystore
+*.jks
+android/.gradle/
+android/app/.cxx/
+env.ps1
+setenv.cmd

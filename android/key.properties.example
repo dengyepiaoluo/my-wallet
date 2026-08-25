@@ -1,0 +1,7 @@
+# Copy this file to key.properties and fill in your values.
+# Generate a keystore with:
+#   keytool -genkeypair -v -storetype PKCS12 -keystore wallet.keystore -alias wallet -keyalg RSA -keysize 2048 -validity 10950
+storePassword=YOUR_PASSWORD
+keyPassword=YOUR_PASSWORD
+keyAlias=YOUR_ALIAS
+storeFile=ABSOLUTE_OR_RELATIVE_PATH_TO/wallet.keystore

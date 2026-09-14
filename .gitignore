@@ -11,3 +11,7 @@ android/.gradle/
 android/app/.cxx/
 env.ps1
 setenv.cmd
+
+# 自动生成的插件清单（含本机绝对路径，不该提交）
+.flutter-plugins
+.flutter-plugins-dependencies

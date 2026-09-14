@@ -8,6 +8,16 @@ allprojects {
     }
 }
 
+// Flutter 模板标准配置：把 gradle 产物统一输出到项目根的 build/ 下，
+// 否则 `flutter build apk` 会去 build/app/outputs 找 APK 而找不到。
+rootProject.buildDir = "../build"
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+}
+subprojects {
+    project.evaluationDependsOn(":app")
+}
+
 tasks.register("clean", Delete) {
     delete rootProject.layout.buildDirectory
 }
